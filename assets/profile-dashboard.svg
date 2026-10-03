@@ -1,0 +1,226 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2700" viewBox="0 0 1200 2700">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#020807"/>
+<stop offset=".5" stop-color="#031411"/>
+<stop offset="1" stop-color="#010403"/>
+</linearGradient>
+<linearGradient id="cyan" x1="0" x2="1">
+<stop stop-color="#00ffb3"/>
+<stop offset="1" stop-color="#00aaff"/>
+</linearGradient>
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<style>
+.t{font-family:monospace;fill:#e9ffff}
+.g{font-family:monospace;fill:#00ffb3}
+.c{font-family:monospace;fill:#00d9ff}
+.m{font-family:monospace;fill:#a8b8b5}
+.s{font-family:monospace;fill:#ffffff}
+.box{fill:#03100e;stroke:#00a98c;stroke-width:1}
+.line{stroke:#00a98c;stroke-width:1;opacity:.65}
+</style>
+</defs>
+
+<rect width="1200" height="2700" rx="18" fill="url(#bg)"/>
+
+<rect x="18" y="18" width="1164" height="300" rx="12" fill="#020908" stroke="#00a98c"/>
+<rect x="18" y="18" width="1164" height="300" rx="12" fill="none" stroke="#00ffb3" opacity=".25" filter="url(#glow)"/>
+
+<text x="48" y="55" class="g" font-size="17">&gt; jayant@github:~$ whoami</text>
+<text x="48" y="130" class="s" font-size="58" font-weight="bold">JAYANT</text>
+<text x="320" y="130" class="g" font-size="58" font-weight="bold">TYAGI</text>
+<text x="50" y="170" class="c" font-size="18">[ CYBERSECURITY â€¢ CSE â€¢ BUILDER â€¢ LEARNER ]</text>
+<text x="50" y="210" class="t" font-size="16">&gt; Ethical Hacking in Progress...</text>
+<text x="50" y="238" class="t" font-size="16">&gt; Building Security Tools...</text>
+<text x="50" y="266" class="t" font-size="16">&gt; Exploring AI &amp; Automation...</text>
+<text x="50" y="294" class="t" font-size="16">&gt; Turning Ideas into Impact...</text>
+
+<rect x="650" y="42" width="500" height="250" rx="8" fill="#020807" opacity=".9"/>
+<circle cx="900" cy="135" r="70" fill="#001a18" stroke="#00ffb3" opacity=".6"/>
+<circle cx="900" cy="135" r="48" fill="#00100f" stroke="#00aaff" opacity=".4"/>
+<path d="M760 280 Q900 190 1040 280" fill="none" stroke="#00ffb3" opacity=".5"/>
+<text x="710" y="275" class="m" font-size="14">LINUX â€¢ HACK â€¢ BUILD â€¢ REPEAT</text>
+
+<rect x="18" y="340" width="570" height="300" rx="10" class="box"/>
+<text x="42" y="375" class="g" font-size="19">&gt; whoami</text>
+<line x1="38" y1="390" x2="568" y2="390" class="line"/>
+<text x="42" y="430" class="g" font-size="22">Jayant Tyagi</text>
+<text x="42" y="465" class="t" font-size="15">â–£ B.Tech CSE (IoT) | 3rd Year | 5th Sem</text>
+<text x="42" y="495" class="t" font-size="15">â—ˆ RKGIT, Ghaziabad</text>
+<text x="42" y="525" class="t" font-size="15">â—‰ Cybersecurity Enthusiast</text>
+<text x="42" y="555" class="t" font-size="15">â—† Builder | Learner | Problem Solver</text>
+<text x="42" y="600" class="m" font-size="14">"Exploring, Building and Securing</text>
+<text x="42" y="622" class="m" font-size="14">a Better Digital World."</text>
+
+<rect x="612" y="340" width="570" height="300" rx="10" class="box"/>
+<text x="636" y="375" class="g" font-size="19">&gt; currently()</text>
+<line x1="632" y1="390" x2="1162" y2="390" class="line"/>
+<text x="640" y="430" class="c" font-size="16">â—‰ Learning</text>
+<text x="810" y="430" class="t" font-size="15">â†’ Advanced Offensive Security</text>
+<text x="640" y="475" class="g" font-size="16">âš™ Building</text>
+<text x="810" y="475" class="t" font-size="15">â†’ Security Projects &amp; AI Tools</text>
+<text x="640" y="520" fill="#5bc0ff" font-family="monospace" font-size="16">â—† Exploring</text>
+<text x="810" y="520" class="t" font-size="15">â†’ Cloud â€¢ IoT â€¢ Automation</text>
+<text x="640" y="565" fill="#c68cff" font-family="monospace" font-size="16">â–£ Preparing</text>
+<text x="810" y="565" class="t" font-size="15">â†’ Certifications &amp; CTFs</text>
+<text x="640" y="610" fill="#ff5252" font-family="monospace" font-size="16">â—Ž Goal</text>
+<text x="810" y="610" class="t" font-size="15">â†’ Full-Time Ethical Hacker</text>
+
+<rect x="18" y="660" width="1164" height="205" rx="10" class="box"/>
+<text x="42" y="695" class="g" font-size="19">&gt; tech_stack --visual</text>
+<line x1="38" y1="710" x2="1162" y2="710" class="line"/>
+
+<text x="55" y="760" class="t" font-size="16">PYTHON</text>
+<text x="180" y="760" class="t" font-size="16">C/C++</text>
+<text x="290" y="760" class="t" font-size="16">LINUX</text>
+<text x="400" y="760" class="t" font-size="16">KALI</text>
+<text x="495" y="760" class="t" font-size="16">DOCKER</text>
+<text x="615" y="760" class="t" font-size="16">GIT</text>
+<text x="700" y="760" class="t" font-size="16">MYSQL</text>
+<text x="810" y="760" class="t" font-size="16">RUST</text>
+<text x="900" y="760" class="t" font-size="16">FASTAPI</text>
+<text x="1030" y="760" class="t" font-size="16">GCP</text>
+
+<text x="55" y="815" class="c" font-size="16">NETWORKING</text>
+<text x="220" y="815" class="c" font-size="16">WEB SECURITY</text>
+<text x="405" y="815" class="c" font-size="16">BURP SUITE</text>
+<text x="565" y="815" class="c" font-size="16">WIRESHARK</text>
+<text x="735" y="815" class="c" font-size="16">AI/ML</text>
+<text x="835" y="815" class="c" font-size="16">IoT</text>
+<text x="910" y="815" class="c" font-size="16">VS CODE</text>
+<text x="1040" y="815" class="c" font-size="16">GITHUB</text>
+
+<rect x="18" y="885" width="1164" height="330" rx="10" class="box"/>
+<text x="42" y="920" class="g" font-size="19">&gt; featured_projects()</text>
+<line x1="38" y1="935" x2="1162" y2="935" class="line"/>
+
+<rect x="38" y="960" width="270" height="225" rx="8" fill="#04110f" stroke="#075e52"/>
+<text x="58" y="1000" class="g" font-size="18">â—ˆ Jarvis</text>
+<text x="58" y="1030" class="t" font-size="15">AI Voice Assistant</text>
+<text x="58" y="1070" class="m" font-size="13">RAG-based AI assistant</text>
+<text x="58" y="1092" class="m" font-size="13">with voice control and</text>
+<text x="58" y="1114" class="m" font-size="13">terminal integration.</text>
+<text x="58" y="1155" class="c" font-size="12">Python â€¢ RAG â€¢ AI â€¢ Voice</text>
+
+<rect x="325" y="960" width="270" height="225" rx="8" fill="#04110f" stroke="#075e52"/>
+<text x="345" y="1000" class="g" font-size="18">â—ˆ Patch Management</text>
+<text x="345" y="1030" class="t" font-size="15">Linux Patch Management</text>
+<text x="345" y="1070" class="m" font-size="13">Automated patch management</text>
+<text x="345" y="1092" class="m" font-size="13">system built in Rust for</text>
+<text x="345" y="1114" class="m" font-size="13">Linux environments.</text>
+<text x="345" y="1155" class="c" font-size="12">Rust â€¢ Linux â€¢ Security</text>
+
+<rect x="612" y="960" width="270" height="225" rx="8" fill="#04110f" stroke="#075e52"/>
+<text x="632" y="1000" class="g" font-size="18">â—ˆ OpenImpact</text>
+<text x="632" y="1030" class="t" font-size="15">Real-Time GIS</text>
+<text x="632" y="1070" class="m" font-size="13">Real-time geographic data</text>
+<text x="632" y="1092" class="m" font-size="13">visualization using GIS</text>
+<text x="632" y="1114" class="m" font-size="13">technologies.</text>
+<text x="632" y="1155" class="c" font-size="12">Leaflet â€¢ OSM â€¢ Python</text>
+
+<rect x="899" y="960" width="263" height="225" rx="8" fill="#04110f" stroke="#075e52"/>
+<text x="919" y="1000" class="g" font-size="18">â—ˆ Hackathons</text>
+<text x="919" y="1030" class="t" font-size="15">Build â€¢ Compete â€¢ Ship</text>
+<text x="919" y="1070" class="m" font-size="13">Security challenges, AI</text>
+<text x="919" y="1092" class="m" font-size="13">builds and rapid prototypes.</text>
+<text x="919" y="1155" class="c" font-size="12">Security â€¢ AI â€¢ Innovation</text>
+
+<rect x="18" y="1235" width="1164" height="330" rx="10" class="box"/>
+<text x="42" y="1270" class="g" font-size="19">&gt; github_stats --live</text>
+<line x1="38" y1="1285" x2="1162" y2="1285" class="line"/>
+
+<rect x="38" y="1310" width="350" height="220" rx="8" fill="#020908" stroke="#075e52"/>
+<text x="58" y="1345" class="g" font-size="18">Overall Stats</text>
+<text x="58" y="1385" class="t" font-size="14">â—‰ Total Repositories</text>
+<text x="300" y="1385" class="c" font-size="14">45</text>
+<text x="58" y="1420" class="t" font-size="14">â—‰ Total Commits</text>
+<text x="300" y="1420" class="c" font-size="14">6.3k+</text>
+<text x="58" y="1455" class="t" font-size="14">â—‰ Pull Requests</text>
+<text x="300" y="1455" class="c" font-size="14">0+</text>
+<text x="58" y="1490" class="t" font-size="14">â—‰ Issues</text>
+<text x="300" y="1490" class="c" font-size="14">1+</text>
+<text x="58" y="1525" class="t" font-size="14">â—‰ Contributions</text>
+<text x="300" y="1525" class="c" font-size="14">500+</text>
+
+<rect x="410" y="1310" width="350" height="220" rx="8" fill="#020908" stroke="#075e52"/>
+<text x="430" y="1345" class="g" font-size="18">GitHub Stats</text>
+<circle cx="585" cy="1430" r="65" fill="none" stroke="#064c3e" stroke-width="12"/>
+<path d="M585 1365 A65 65 0 0 1 645 1405" fill="none" stroke="#00ffb3" stroke-width="12"/>
+<text x="555" y="1437" class="s" font-size="18">C++</text>
+<text x="440" y="1485" class="t" font-size="13">Stars</text>
+<text x="600" y="1485" class="c" font-size="13">1</text>
+<text x="440" y="1510" class="t" font-size="13">Commits</text>
+<text x="600" y="1510" class="c" font-size="13">6.3k+</text>
+
+<rect x="782" y="1310" width="380" height="220" rx="8" fill="#020908" stroke="#075e52"/>
+<text x="802" y="1345" class="g" font-size="18">Top Languages</text>
+<rect x="802" y="1370" width="320" height="12" rx="6" fill="#1e6ca8"/>
+<rect x="913" y="1370" width="105" height="12" fill="#eab308"/>
+<rect x="1018" y="1370" width="60" height="12" fill="#e34c26"/>
+<rect x="1078" y="1370" width="44" height="12" fill="#8957e5"/>
+<text x="802" y="1410" class="t" font-size="13">â— Python 34.86%</text>
+<text x="802" y="1438" class="t" font-size="13">â— TypeScript 32.86%</text>
+<text x="802" y="1466" class="t" font-size="13">â— JavaScript 16.46%</text>
+<text x="802" y="1494" class="t" font-size="13">â— HTML 11.35%</text>
+<text x="802" y="1522" class="t" font-size="13">â— Rust 2.03%</text>
+
+<rect x="18" y="1585" width="1164" height="300" rx="10" class="box"/>
+<text x="42" y="1620" class="g" font-size="19">&gt; contribution_graph</text>
+<line x1="38" y1="1635" x2="1162" y2="1635" class="line"/>
+
+<text x="65" y="1680" class="m" font-size="12">JAN</text>
+<text x="170" y="1680" class="m" font-size="12">FEB</text>
+<text x="275" y="1680" class="m" font-size="12">MAR</text>
+<text x="380" y="1680" class="m" font-size="12">APR</text>
+<text x="485" y="1680" class="m" font-size="12">MAY</text>
+<text x="590" y="1680" class="m" font-size="12">JUN</text>
+<text x="695" y="1680" class="m" font-size="12">JUL</text>
+<text x="800" y="1680" class="m" font-size="12">AUG</text>
+<text x="905" y="1680" class="m" font-size="12">SEP</text>
+<text x="1010" y="1680" class="m" font-size="12">OCT</text>
+
+<g fill="#06382e">
+<rect x="65" y="1700" width="15" height="15"/><rect x="87" y="1700" width="15" height="15"/><rect x="109" y="1700" width="15" height="15"/><rect x="131" y="1700" width="15" height="15"/>
+<rect x="65" y="1722" width="15" height="15"/><rect x="87" y="1722" width="15" height="15"/><rect x="109" y="1722" width="15" height="15"/><rect x="131" y="1722" width="15" height="15"/>
+<rect x="65" y="1744" width="15" height="15"/><rect x="87" y="1744" width="15" height="15"/><rect x="109" y="1744" width="15" height="15"/><rect x="131" y="1744" width="15" height="15"/>
+<rect x="65" y="1766" width="15" height="15"/><rect x="87" y="1766" width="15" height="15"/><rect x="109" y="1766" width="15" height="15"/><rect x="131" y="1766" width="15" height="15"/>
+<rect x="65" y="1788" width="15" height="15"/><rect x="87" y="1788" width="15" height="15"/><rect x="109" y="1788" width="15" height="15"/><rect x="131" y="1788" width="15" height="15"/>
+</g>
+
+<g fill="#00b878">
+<rect x="180" y="1700" width="15" height="15"/><rect x="202" y="1722" width="15" height="15"/><rect x="246" y="1744" width="15" height="15"/><rect x="290" y="1722" width="15" height="15"/>
+<rect x="356" y="1766" width="15" height="15"/><rect x="400" y="1700" width="15" height="15"/><rect x="444" y="1788" width="15" height="15"/><rect x="510" y="1722" width="15" height="15"/>
+<rect x="576" y="1744" width="15" height="15"/><rect x="642" y="1700" width="15" height="15"/><rect x="708" y="1766" width="15" height="15"/><rect x="774" y="1722" width="15" height="15"/>
+<rect x="840" y="1788" width="15" height="15"/><rect x="906" y="1744" width="15" height="15"/><rect x="972" y="1700" width="15" height="15"/><rect x="1038" y="1766" width="15" height="15"/>
+</g>
+
+<rect x="18" y="1910" width="1164" height="330" rx="10" class="box"/>
+<text x="42" y="1945" class="g" font-size="19">&gt; contribution_snake</text>
+<line x1="38" y1="1960" x2="1162" y2="1960" class="line"/>
+<path d="M90 2110 C150 2020 210 2020 270 2110 S390 2200 450 2110 S570 2020 630 2110 S750 2200 810 2110 S930 2020 1050 2110" fill="none" stroke="#00ff78" stroke-width="20" filter="url(#glow)"/>
+<circle cx="1050" cy="2110" r="14" fill="#00ff78"/>
+<circle cx="1075" cy="2110" r="5" fill="#ff304f"/>
+<text x="480" y="2165" class="m" font-size="14">CONTRIBUTION ACTIVITY</text>
+
+<rect x="18" y="2265" width="1164" height="180" rx="10" class="box"/>
+<text x="42" y="2300" class="g" font-size="19">&gt; achievements</text>
+<line x1="38" y1="2315" x2="1162" y2="2315" class="line"/>
+<text x="80" y="2370" class="t" font-size="17">ðŸ† Hackathon Builder</text>
+<text x="350" y="2370" class="t" font-size="17">âš¡ Cybersecurity</text>
+<text x="580" y="2370" class="t" font-size="17">ðŸ¤– AI Projects</text>
+<text x="800" y="2370" class="t" font-size="17">ðŸ’» Open Source</text>
+<text x="980" y="2370" class="t" font-size="17">ðŸš€ Builder</text>
+
+<rect x="18" y="2470" width="1164" height="130" rx="10" class="box"/>
+<text x="42" y="2505" class="g" font-size="19">&gt; find_me_online</text>
+<line x1="38" y1="2520" x2="1162" y2="2520" class="line"/>
+<text x="80" y="2560" class="t" font-size="15">GITHUB</text>
+<text x="300" y="2560" class="t" font-size="15">LINKEDIN</text>
+<text x="540" y="2560" class="t" font-size="15">EMAIL</text>
+<text x="750" y="2560" class="t" font-size="15">PORTFOLIO</text>
+<text x="970" y="2560" class="g" font-size="15">JAYANT-LANG</text>
+
+</svg>
