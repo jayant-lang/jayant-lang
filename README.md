@@ -1,16 +1,22 @@
-# <p align="center"><code>> jayant@github:~$ whoami</code><br/>⚡ JAYANT TYAGI ⚡<br/><sub>[ CYBERSECURITY • CSE • BUILDER • LEARNER ]</sub></p>
+<div align="center">
 
-<p align="center">
-  <em>> Ethical Hacking in Progress... | Building Security Tools... | Exploring AI & Automation</em>
-</p>
+# `> jayant@github:~$ whoami`
+# ⚡ JAYANT TYAGI ⚡
+`[ CYBERSECURITY • CSE • BUILDER • LEARNER ]`
 
----
+<br/>
 
-### `> whoami && currently()`
+> *`> Ethical Hacking in Progress...`*  
+> *`> Building Security Tools...`*  
+> *`> Exploring AI & Automation...`*
 
-| `> whoami` | `> currently()` |
+</div>
+
+<br/>
+
+| <code>&gt; whoami</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔴 🟡 🟢 | <code>&gt; currently()</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔴 🟡 🟢 |
 | :--- | :--- |
-| **Name:** Jayant Tyagi<br/>**Role:** B.Tech CSE (IoT) \| 3rd Year<br/>**Institute:** RKGIT, Ghaziabad<br/>**Focus:** Cybersecurity & Ethical Hacking<br/>**Location:** Uttar Pradesh, India<br/>**Motto:** <em>"Exploring, Building and Securing a Better Digital World."</em> | **Learning:** Advanced Offensive Security<br/>**Building:** Security Projects & AI Tools<br/>**Exploring:** Cloud, IoT & Automation<br/>**Preparing:** Certifications & CTFs<br/>**Goal:** Become a Full-Time Ethical Hacker |
+| <br/><code><b>&gt; Identity</b></code><br/>• <b>Name:</b> Jayant Tyagi<br/>• <b>Role:</b> B.Tech CSE (IoT) \| 3rd Year, 5th Sem<br/>• <b>Institute:</b> RKGIT, Ghaziabad<br/>• <b>Focus:</b> Cybersecurity &amp; Ethical Hacking<br/>• <b>Status:</b> Builder \| Learner \| Problem Solver<br/>• <b>Origin:</b> Uttar Pradesh, India<br/><br/><code><b>&gt; Philosophy</b></code><br/>💡 <em>"Exploring, Building and Securing a Better Digital World."</em> █<br/><br/> | <br/><code><b>&gt; Directives</b></code><br/>📖 <b>Learning:</b> &nbsp;→ Advanced Offensive Security<br/>⚙️ <b>Building:</b> &nbsp;&nbsp;→ Security Projects &amp; AI Tools<br/>📡 <b>Exploring:</b> → Cloud, IoT &amp; Automation<br/>🎯 <b>Preparing:</b> → Certifications &amp; CTFs<br/><br/><code><b>&gt; Target</b></code><br/>🏁 <b>Goal:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Become a Full-Time Ethical Hacker<br/><br/> |
 
 ---
 
